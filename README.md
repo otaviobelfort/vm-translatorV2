@@ -4,7 +4,6 @@
 
 ```
 python3 main.py 07/MemoryAccess/BasicTest -b
-python VMTranslator.py 07/MemoryAccess/BasicTest
 
 ```
 
